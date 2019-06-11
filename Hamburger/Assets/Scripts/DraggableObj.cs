@@ -4,7 +4,9 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-//test 
+//tes
+//aaaaaaaa
+
 
 public class DraggableObj : MonoBehaviour,IBeginDragHandler,IEndDragHandler,IDragHandler
 {
